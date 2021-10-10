@@ -22,4 +22,6 @@ button {
 	font-weight: bold;
 	border: none;
 	border-radius: 3px;
+	margin-top: 2px;
+	margin-bottom: 2px;
 }
